@@ -1,0 +1,25 @@
+body{
+    background-color:sandybrown;
+}
+
+.cabezera{
+    padding: 1em;
+    text-align: center;
+    color: navy;
+}
+
+.nav-item{
+    color: aliceblue;
+}
+
+.estudios th{
+    text-align: center;
+}
+
+.estudios td{
+    vertical-align: text-top;
+}
+ .estudios td #fecha{
+    text-align: left;
+
+}
